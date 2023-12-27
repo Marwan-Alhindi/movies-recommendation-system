@@ -1,10 +1,5 @@
-
-Name: Mrwan Alhandi
-Student ID: s3969393
-
-To execute Assignment3_framework.ipynb, follow the instructions:
-
-1- Please add the datasets named ml-100k to the same folder where Assignment3_framework.ipynb is.
-2- For the notebook file, follow these steps:
-	1. Main menu → Kernel → Restart & Run All
-	2. Wait till you see the output displayed properly. You should see all the data printed and graphs displayed.
+ Analysed business needs and data science challenge to identify and implement potential solutions.
+• Established a machine learning pipeline to recommend movies to users from their watched ratings and other users watched ratings.
+• Resulted in a recommendation system that accurately suggests similar movies based on user preferences, enhancing user satisfaction and engagement with the
+business.
+• Conveyed both technical details and the overall solution in a simplified accessible manner for diverse sector stakeholders.
